@@ -1,0 +1,12 @@
+C:\Users\EMILIO SK\Desktop\pruebasDesarrollo6-10\prueba4\backend\backend.DAL\bin\Debug\net8.0\backend.DAL.deps.json
+C:\Users\EMILIO SK\Desktop\pruebasDesarrollo6-10\prueba4\backend\backend.DAL\bin\Debug\net8.0\backend.DAL.dll
+C:\Users\EMILIO SK\Desktop\pruebasDesarrollo6-10\prueba4\backend\backend.DAL\bin\Debug\net8.0\backend.DAL.pdb
+C:\Users\EMILIO SK\Desktop\pruebasDesarrollo6-10\prueba4\backend\backend.DAL\obj\Debug\net8.0\backend.DAL.csproj.AssemblyReference.cache
+C:\Users\EMILIO SK\Desktop\pruebasDesarrollo6-10\prueba4\backend\backend.DAL\obj\Debug\net8.0\backend.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMILIO SK\Desktop\pruebasDesarrollo6-10\prueba4\backend\backend.DAL\obj\Debug\net8.0\backend.DAL.AssemblyInfoInputs.cache
+C:\Users\EMILIO SK\Desktop\pruebasDesarrollo6-10\prueba4\backend\backend.DAL\obj\Debug\net8.0\backend.DAL.AssemblyInfo.cs
+C:\Users\EMILIO SK\Desktop\pruebasDesarrollo6-10\prueba4\backend\backend.DAL\obj\Debug\net8.0\backend.DAL.csproj.CoreCompileInputs.cache
+C:\Users\EMILIO SK\Desktop\pruebasDesarrollo6-10\prueba4\backend\backend.DAL\obj\Debug\net8.0\backend.DAL.dll
+C:\Users\EMILIO SK\Desktop\pruebasDesarrollo6-10\prueba4\backend\backend.DAL\obj\Debug\net8.0\refint\backend.DAL.dll
+C:\Users\EMILIO SK\Desktop\pruebasDesarrollo6-10\prueba4\backend\backend.DAL\obj\Debug\net8.0\backend.DAL.pdb
+C:\Users\EMILIO SK\Desktop\pruebasDesarrollo6-10\prueba4\backend\backend.DAL\obj\Debug\net8.0\ref\backend.DAL.dll
